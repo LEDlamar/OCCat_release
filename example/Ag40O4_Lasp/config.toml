@@ -1,0 +1,19 @@
+[SwarmConfig]
+PopSize = 20
+MaxSteps = 100
+NProc = 20
+PrintEvery = 1
+NTerm = 10
+
+[ClusterConfig]
+# Keep empty
+
+[FunctionConfig]
+FunctionType = 3
+FunctionParam = [[1.0,2.0]]
+
+[MoreConfig]
+InitStrucPath = "Ag40.xyz"
+StrucType = 1
+NameOfAddAtoms = ["O"]
+NumOfAddAtoms = [4]

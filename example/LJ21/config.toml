@@ -1,0 +1,17 @@
+[SwarmConfig]
+PopSize = 30
+MaxSteps = 200
+NProc = 30
+PrintEvery = 1
+NTerm = 20
+
+[ClusterConfig]
+NumberOfAtoms = [21]
+NameOfAtoms = ["He"]
+Vacancy = [12.0, 12.0, 12.0]
+
+[FunctionConfig]
+FunctionType = 0
+FunctionParam = [
+    [1.0, 1.0]
+]

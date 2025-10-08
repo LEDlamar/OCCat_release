@@ -1,0 +1,17 @@
+[SwarmConfig]
+PopSize = 20
+MaxSteps = 100
+NProc = 20
+PrintEvery = 1
+NTerm = 40
+
+[ClusterConfig]
+NumberOfAtoms = [62]
+NameOfAtoms = ["Co"]
+Vacancy = [12.0, 12.0, 12.0]
+
+[FunctionConfig]
+FunctionType = 1
+FunctionParam = [
+    [0.0950,1.4880,11.604,2.286,2.497]
+]
