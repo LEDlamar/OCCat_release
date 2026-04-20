@@ -13,6 +13,7 @@ The structure of the repository at https://github.com/LEDlamar/OCCat_release is:
 │   ├── calcRate.py            # Introduce more descriptors
 │   ├── orr.py                 # Demo of analyze a specific reaction
 │   └── ...
+├── structres.zip             # Structure data for the cluster related to `OCCat: A Workflow Package for Optimization of Cluster Catalyst`
 └── example                    
     ├── Ag40O4_Lasp            
     │   ├── Ag40.xyz           # XYZ coordinate file of base cluster
